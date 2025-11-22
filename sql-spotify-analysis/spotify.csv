@@ -1,0 +1,11 @@
+track_id,track_name,artist,genre,release_year,danceability,energy,tempo,streams
+1,Blinding Lights,The Weeknd,Pop,2020,0.65,0.80,171,3500000000
+2,Shape of You,Ed Sheeran,Pop,2017,0.82,0.65,96,3800000000
+3,Starboy,The Weeknd,R&B,2016,0.78,0.75,186,2500000000
+4,One Dance,Drake,Hip-Hop,2016,0.79,0.55,104,2400000000
+5,LEVITATING,Dua Lipa,Pop,2020,0.78,0.73,103,2100000000
+6,Rockstar,Post Malone,Hip-Hop,2018,0.62,0.45,160,2000000000
+7,Stay,The Kid LAROI,Pop,2021,0.70,0.85,170,2200000000
+8,Someone Like You,Adele,Soul,2011,0.40,0.25,135,1800000000
+9,Bad Guy,Billie Eilish,Alternative,2019,0.72,0.43,135,2100000000
+10,Sad!,XXXTENTACION,Hip-Hop,2018,0.63,0.30,145,1900000000
